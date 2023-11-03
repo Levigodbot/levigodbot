@@ -4,7 +4,7 @@
 ## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Catcaturboy) 
 <br>
 
-[![Profile views](https://gpvc.arturio.dev/Levigodbot)](https://github.com/Levigodbot)
+[![Profile views](https://ibb.co/c8WRvTC)](https://github.com/Levigodbot)
 ### Statistik
 <p align="center"><a href="https://github.com/Levigodbot"><img src="https://github-readme-stats.vercel.app/api?username=Levigodbot&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/Levigodbot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levigodbot&theme=radical&layout=compact"></a></p> 
