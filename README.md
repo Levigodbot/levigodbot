@@ -1,7 +1,7 @@
 # My Profile
 
 
-## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/IDnyaKosong) 
+## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Catcaturboy) 
 <br>
 
 [![Profile views](https://gpvc.arturio.dev/Levigodbot)](https://github.com/Levigodbot)
@@ -13,21 +13,21 @@
    <h3 align="left">Bahasa dan Code</h3>
 <p align="left"> <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrizky16&" alt="muhammadrizky16
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Levigodbot&" alt="Levigodbot
 ### Mari terhubung!
 <p>
-    <a href="https://instagram.com/rizkyhamdanii16_" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/azmiabdllhh" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Levigodbot)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/muhammadrizky16?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSolo)
+![Metrics](https://metrics.lecoq.io/Levigodbot?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSolo)
 
 </details>
